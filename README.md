@@ -30,7 +30,7 @@ W poczatkowej fazie gra miała być prostą gierką - w sumie nadal taka pozosta
 22. stworzenie osobnej funkcji sprawdzajacej poprawną odpowiedź
 23. stworzenie funkcji przebiegu gry
 
-kluzowym elementem na następny etap gry jest dodanie funkcji niepowtarzania się pytań
+Kluczowym elementem na następny etap gry jest dodanie funkcji niepowtarzania się pytań
 praca nad frontendową wersją gry
 
 Wszystkie uwagi i podpowiedzi jak ulepszyć kod mile widziane :)
