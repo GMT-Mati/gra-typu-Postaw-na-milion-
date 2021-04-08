@@ -30,6 +30,6 @@ In the initial phase, the game was supposed to be a simple game - in fact, it st
 22. Creating a separate function that checks the correct answer
 23. The creation of the flow of the game function
 
-The key element for the next stage of the game is to add the question-avoidance function and work on the frontend version of the game
+The key element for the next stage of the game is to add the question-avoidance function and work on the frontend version of the game and improving the clarity and functionality of the code.
 
 All comments and tips on how to improve the code are welcome :) 
