@@ -1,35 +1,35 @@
-# gra typu "Postaw na milion"
-Gra podobna do "Postaw na Milion". Baza pytań  w trakcie rozbudowy. Na razie tylko backend, frontendowa wersja pygame w przygotowaniu.
+# game like "Million Dollar Money Drop"
+A game similar to "Million Dollar Money Drop". Database of questions under development. For now only backend, frontend version of pygame in preparation.
 
-# Przygotowanie:
-Pomysł na grę zrodził się jako jako pierwszy pojekt pythona.
-W poczatkowej fazie gra miała być prostą gierką - w sumie nadal taka pozostała - gdzie naliczane są punkty za każdą poprawną odpowiedź, w trakcie rozbudowy kodu pojawiły się nowe pomysły i funkcjonalności.
+# Preparation:
+The idea for the game was born as the first python project.
+In the initial phase, the game was supposed to be a simple game - in fact, it still remains - where points are scored for each correct answer, while developing the code, new ideas and functionalities appeared.
 
-# Przebieg tworzenia programu i napotkane po drodze trudności:
-1. zacząłem od napisania kodu doadającego punkt za każdą prawidłową odpowiedź. W każdym pytaniu można było wybrac tylko jedną odpowiedź, a same pytanie były zadawane po kolei.
-2. w celach testowych stworzyłem plik json z zestawem pytań. Każde pytanie miało przypisane cztery propozycje odpowiedzi oraz prawidłową odpowiedź.
-3. następnie dodałem funkcjonalnoć w której pytania są losowane co sprawiło że każda gra mogła być inna, oraz opcję zakończenia gry po błędnej odpowiedzi
-4. pojawia się pomysł przekształcenia gry w te typu 'Postaw na milion' - w związku z tym do pliku json dopisałem kategorię każdego pytania, a w kodzie programu ustawiłem opcję w której najpierw losuje się dwie kategorie i gracz wybiera jedną z nich, dopiero później pada pytanie odpowiednie dla wybranej kategorii. Problemem na tym etapie było podwójne losowanie tej samej kategorii. Gracz nadal mógł wybrać tylko jedną odpowiedź.
-5. aby zbliżyć się do oryginału wprowadziłem opcję stawiania dowolnej kwoty na każdą z propozycji odpowiedzi. Następnie napisałem kod który weryfikował czy pod poprawną odpowiedzią jest jakaś kwota różna od zera i przypisywał kwotę ze tej odpowiedzi jako kwotę wygraną w grze. Problemem na tym etapie okazało się nadpisywanie poprawnej dopowiedzi w zwiażku z czym program zawsze widział dwie odpowiedzi jako poprawne, nadpisywanie kwoty wygranej bez limitu, brak zakończenia gry przy kwocie zero
-6. w tym etapie priorytetem było poprawne sprawdzenie stawek z prawidłową odpowiedzią, jeśli odp była właściwa to dopisanie stawki do kwoty wygranej, naprawienie błędu limitu wygranej
-7. ustawienie maksymalnej ilości pytań, ustawinie poziomu pytania w zależności od etapu gry: przy pyt 1-4 wyświetlanie czterech odpowiedzi, przy pyt 5-7 wyświetlanie trzech odpowiedzi, w finałowym 8 pyt wyświetlenie dwóch możliwych odpowiedzi, dopisanie w pliku json poziomu pytań
-8. opcja informująca o zakończeniu gry kiedy kwota spada do 0 zł
-9. skrócenie kodu poprzez stworzenie funkcji kategoria(pytanie, random_index) które okazało się wadliwe, pjawił się bug dopierajacy do kategori 1 odpowiedzi z kategorii 2 i na odwrót, błąd został naprawiony jednak funkcjonalnośc tej defincji okazała się niewystraczająca
-10. !!! największy problem w programie, którego do końca nie roziwązałem to ptoblem z dobieraniem odpowiedniego poziomu pytania, pojawił się duży bug zaykający program apolegający na wyświetlaniu pytania cztero-odpowiedziowego(z poziomu 1-4) w momencie kiedy powinien losować pytania trz lub dwu-odpowiedziowe(poziom 5-8). W związku z brakime wyświetlenia odpwiedzi C i D które były w pliku źrółowym json program się zamykał z błędem.
-11. ponieważ nie potrafiłem rozwiązac problemu z indeksowaniem pytania po poziomie, ostanowiłem zamiast jednego pliku json utworzyć trzy, po jednym dla każdego z poziomów pytań
-12. utzworzyłem funkcje losującą pytanie w zależności od poziomu
-13. utworzyłem listę użytych pytań i uwarunkowanie poziomu gry w zależności od jej długości
-14. funkcja drukowania dwóch kategorii i możliość wybrania jednej z nich
-15. funkcja drukowania pytania praz odpowiedzi po wyborze kategorii
-16. funkcja ustalenia stawek na konkretne odpowiedzi, bez limitu i wszystkie odpowiedzi mogą być obstawiane
-17. sprawdzenie odpowiedzi, sprawdzenie jakie stawki zostały obstawione i zapisaniej wygranej kwoty tymczsowej
-18. ustawienie limitów stawek, automatyczne liczenie wygranej po pisaniu odpowiedzi, limit wygranej kwoty
-19. funkcja wymuszająca jedną odpowiedź pustą
-20. funkcja wymuszajaca skok stawki na 25tys, polegająca an zaokrąglaniu podanje przez gracza kwoty do tej najbliższej, podzielnej przez 25
-21. skrócenie kody o połowę poprzez definicje i odpowiednie ustawienie pętli oraz \n print
-22. stworzenie osobnej funkcji sprawdzajacej poprawną odpowiedź
-23. stworzenie funkcji przebiegu gry
+# Program development process and difficulties encountered along the way:
+1. I started by writing a code that added a point for each correct answer. Only one answer could be chosen for each question, and the questions themselves were asked in sequence.
+2. For testing purposes I created a json file with a set of questions. Each question was assigned four answer suggestions and a correct answer.
+3. Then I added a functionality in which the questions are randomized, which made each game could be different, and the option of ending the game after answering incorrectly
+4. The idea of transforming the game into those of the 'Million Dollar Money Drop' type appears - therefore I added the category of each question to the json file, and in the program code I set an option in which two categories are drawn first and the player chooses one of them, then it falls a question appropriate for the selected category. The problem at this stage was that the same category was drawn twice. The player still could only choose one answer.
+5. To get closer to the original I introduced the option of placing any amount on each of the proposed answers. Then I wrote a code that verified if there was any amount other than zero under the correct answer and assigned the amount from this answer as the amount won in the game. The problem at this stage turned out to be overwriting the correct answer, therefore the program always saw two answers as correct, overwriting the winning amount with no limit, no end of the game with a zero amount
+6. At this stage, the priority was to check the rates correctly with the correct answer, if the answer was correct, then adding the rate to the winning amount, fixing the winning limit error
+7. Setting the maximum number of questions, setting the question level depending on the stage of the game: displaying four answers for questions 1-4, displaying three answers for questions 5-7, displaying two possible answers in the final 8 question, adding the question level in the json file
+8. Option informing about the end of the game when the amount drops to PLN 0
+9. Shortening the code by define a function category(question, random_index) which turned out to be defective, a bug appeared that matched the category 1 of the answers from category 2 and vice versa, the bug was fixed, but the functionality of this definition turned out to be insufficient
+10. !!! the biggest problem in the program !!! which I have not fully resolved, is the problem with selecting the appropriate level of the question, there was a large bug that caused the program to display a four-answer question (from level 1-4) when it should randomize three or two-answer questions (level 5-8). Due to the lack of display of C and D responses that were in the json source file, the program closed with an error.
+11. Because I couldn't solve the problem with indexing the questions by level, I decided to create three instead of one json file, one for each of the question levels
+12. I created a function that randomizes the question depending on the level
+13. Created a list of used questions and conditioning of the level of the game depending on its length
+14. Two-category printing function and the ability to choose one of them
+15. Function of printing questions and answers after selecting the category
+16. Bidding function for specific answers, no limit and all answers can be bet
+17. Checking the answer, checking what stakes were placed and writing down the won temporary amount
+18. Setting stake limits, automatic calculation of the winnings after writing the answer, limit of the winning amount
+19. Function forcing one blank answer
+20. Function forcing the stake to jump to 25,000, consisting in rounding the amount given by the player to the nearest, divisible by 25
+21. Shorten the codes by half through definitions and the appropriate setting of the loop and \n print
+22. Creating a separate function that checks the correct answer
+23. The creation of the flow of the game function
 
-Kluczowym elementem na następny etap gry jest dodanie funkcji niepowtarzania się pytań i praca nad frontendową wersją gry
+The key element for the next stage of the game is to add the question-avoidance function and work on the frontend version of the game
 
-Wszystkie uwagi i podpowiedzi jak ulepszyć kod mile widziane :)
+All comments and tips on how to improve the code are welcome :) 
