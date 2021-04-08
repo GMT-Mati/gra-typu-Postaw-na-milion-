@@ -1,0 +1,106 @@
+[
+   {
+      "poziom" : "dwa",
+      "kategoria": "architektura",
+      "pytanie": "W jakim stylu została wybudowana Kamienica 'Pod Żabami' w Bielsku-Białej?",
+      "a": "Secesja",
+      "b": "Neobarok",
+      "prawidłowa odpowiedź": "a"
+   },
+   {
+      "poziom" : "dwa",
+      "kategoria": "film",
+      "pytanie": "Skąd pochodzi Conan Barbarzyńca?",
+      "a": "Z Tymerii",
+      "b": "Z Cimmerii",
+      "prawidłowa odpowiedź": "b"
+   },
+   {
+      "poziom" : "dwa",
+      "kategoria": "komiksy",
+      "pytanie": "Naprowmieniowana promieniami gamma krew Abominacji zabiła:",
+      "a": "Betty Ross",
+      "b": "Hulka",
+      "prawidłowa odpowiedź": "b"
+   },
+   {
+      "poziom" : "dwa",
+      "kategoria": "seriale polskie",
+      "pytanie": "Jaki kolor włosów ma Tatiana z serialu 'Fala zbrodni'?",
+      "a": "Rude",
+      "b": "Blond",
+      "prawidłowa odpowiedź": "a"
+   },
+   {
+      "poziom" : "dwa",
+      "kategoria": "gry komputerowe",
+      "pytanie": "Synem Groma Hellscreama z gry World of Warcraft jest:",
+      "a": "Garosh",
+      "b": "Ninke",
+      "prawidłowa odpowiedź": "a"
+   },
+   {
+      "poziom" : "dwa",
+      "kategoria": "historia",
+      "pytanie": "Desant w Afryce Północnej w 1942 roku nosił kryptonim:",
+      "a": "Overlord",
+      "b": "Torch",
+      "prawidłowa odpowiedź": "b"
+   },
+   {
+      "poziom" : "dwa",
+      "kategoria": "geografia",
+      "pytanie": "Co jest stolicą Republiki Autonomicznej Krymu?",
+      "a": "Jałta",
+      "b": "Symferpol",
+      "prawidłowa odpowiedź": "b"
+   },
+   {
+      "poziom" : "dwa",
+      "kategoria": "geografia",
+      "pytanie": "W którym mieście zmieniamy kontynent, nie zmieniając miasta?",
+      "a": "Stambuł",
+      "b": "Seul",
+      "prawidłowa odpowiedź": "a"
+   },
+   {
+      "poziom" : "dwa",
+      "kategoria": "język polski",
+      "pytanie": "Kiedyś snecha to dzisiejsza:",
+      "a": "Bratowa",
+      "b": "Synowa",
+      "prawidłowa odpowiedź": "b"
+   },
+   {
+      "poziom" : "dwa",
+      "kategoria": "ochrona przyrody",
+      "pytanie": "Łączna powierzchnia parków narodowych w Polsce w końcu 2016 roku wynosiła mniej czy więcej niż 325,1 tys ha",
+      "a": "Mniej",
+      "b": "Więcej",
+      "prawidłowa odpowiedź": "a"
+   },
+   {
+      "poziom" : "dwa",
+      "kategoria": "geografia polski",
+      "pytanie": "Nadłuższa rzeka w Polsce to Wisła. W drugiej kolejności, biorąc pod uwagę tylko długość na terenie naszego kreju, jest:",
+      "a": "Warta",
+      "b": "Odra",
+      "prawidłowa odpowiedź": "a"
+   },
+   {
+      "poziom" : "dwa",
+      "kategoria": "wierzenia",
+      "pytanie": "Czym było Auspicium w Starożyrnym Rzymie",
+      "a": "wnioskowaniem woli bogów z lotu ptaków",
+      "b": "pomieszczeniem szpitalnym",
+      "prawidłowa odpowiedź": "a"
+   },
+   {
+      "poziom" : "dwa",
+      "kategoria": "geografia",
+      "pytanie": "Jakai rodzaj bariery osadniczej występuje na Saharze",
+      "a": "Bariera pisakowa",
+      "b": "Bariera termiczna",
+      "prawidłowa odpowiedź": "b"
+   }
+]

@@ -1,0 +1,649 @@
+[
+   {
+      "poziom" : "trzy",
+      "kategoria": "geografia",
+      "pytanie": "Ile jest stref oświetlenia Ziemi?",
+      "a": 1,
+      "b": 2,
+      "c": 5,
+      "prawidłowa odpowiedź": "c"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "historia",
+      "pytanie": "W którym roku powstało Księstwo Warszawskie?",
+      "a": 1807,
+      "b": 1805,
+      "c": 1809,
+      "prawidłowa odpowiedź": "a"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "filmy polskie",
+      "pytanie": "Która aktorka wystąpiła w filmie 'Edi'?",
+      "a": "Aleksandra Kisio",
+      "b": "Malwina Buss",
+      "c": "Agata Trzebuchowska",
+      "prawidłowa odpowiedź": "a"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "filmy zagraniczne",
+      "pytanie": "Kapitanem statku Voyager w 'Star Trek: Voyager' jest: ",
+      "a": "Jean-Luc Picard",
+      "b": "Kathryn Janeway",
+      "c": "Benjamin Sisco",
+      "prawidłowa odpowiedź": "b"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "napoje",
+      "pytanie": "Jaki kwas znajduje się w popularnym napoju Coca-Cola",
+      "a": "fosforowy",
+      "b": "azotowy",
+      "c": "solny",
+      "prawidłowa odpowiedź": "a"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "historia",
+      "pytanie": "Kto był królem Izraela i następcą Dawida?",
+      "a": "Herkules",
+      "b": "Mojżesz",
+      "c": "Salomon",
+      "prawidłowa odpowiedź": "c"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "seriale polskie",
+      "pytanie": "Jaki kierunek, oprócz resocjalizacj, studiował teść Karola z serialu 'Miodowe lata'?",
+      "a": "historię",
+      "b": "prawo",
+      "c": "politologię",
+      "prawidłowa odpowiedź": "a"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "język polski",
+      "pytanie": "Jaką częścią zdania jest orzeczenie?",
+      "a": "tą, która wyraża czynność podmiotu",
+      "b": "tą, która określa przydawkę",
+      "c": "tą, która określa dopełnienie",
+      "prawidłowa odpowiedź": "a"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "muzyka",
+      "pytanie": "Na jakim instrumencie gra Czesław Mozil",
+      "a": "gitarze",
+      "b": "akordeonie",
+      "c": "ksylofonie",
+      "prawidłowa odpowiedź": "b"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "celebryci",
+      "pytanie": "Jak ma na imię obecna żona Romana Polańskiego",
+      "a": "Barbara",
+      "b": "Emmanuelle",
+      "c": "Morgane",
+      "prawidłowa odpowiedź": "b"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "skróty",
+      "pytanie": "Rozszyfruj skrót PSL.",
+      "a": "Polska Solidarność Ludowa",
+      "b": "Polskie Siły Lotnicze",
+      "c": "Polskie Stronnictwo Ludowe",
+      "prawidłowa odpowiedź": "c"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "cytaty",
+      "pytanie": "'C'est la vie' oznacza:",
+      "a": "Myślę, więc jestem",
+      "b": "Takie jest życie",
+      "c": "Życie jest piękne",
+      "prawidłowa odpowiedź": "b"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "filmy polskie",
+      "pytanie": "Jak naprawdę nazywał się Hans Kloss z serialu 'Stawka większa niż życie'?",
+      "a": "Stanisław Koliński",
+      "b": "Stanisław Kolik",
+      "c": "Stanisław Kolicki",
+      "prawidłowa odpowiedź": "c"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "programy telewizyjne",
+      "pytanie": "Jakie imiona nosili bohaterowie edukacyjnego programu telewizyjnego 'Przybysze z Metaplenety'?",
+      "a": "Alfa i Omega",
+      "b": "Algorytm i Logarytm",
+      "c": "Sigma i Pi",
+      "prawidłowa odpowiedź": "c"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "historia",
+      "pytanie": "Wermacht był armią?",
+      "a": "Zawodową",
+      "b": "Z poboru",
+      "c": "Cudzoziemską",
+      "prawidłowa odpowiedź": "b"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "starożytna grecja",
+      "pytanie": "Jak starożytni Grecy nazywali swoją ojczyznę?",
+      "a": "Hellada",
+      "b": "Hellana",
+      "c": "Greta",
+      "prawidłowa odpowiedź": "a"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "starożytność",
+      "pytanie": "Obywatelami któego greckiego miasta-państwa byli Lacedończycy?",
+      "a": "Aten",
+      "b": "Sparty",
+      "c": "Teb",
+      "prawidłowa odpowiedź": "b"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "gastronomia",
+      "pytanie": "Świąteczna ryba to:",
+      "a": "Halibut",
+      "b": "Makrela",
+      "c": "Karp",
+      "prawidłowa odpowiedź": "c"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "optyka",
+      "pytanie": "Co wykorzytsuje się do korekcji dalekowzroczności?",
+      "a": "Soczewki skupiające",
+      "b": "Zwierciadła wklęsłę",
+      "c": "Zwierciadła wypukłe",
+      "prawidłowa odpowiedź": "a"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "anatomia",
+      "pytanie": "Ile wynosi średnica źrenicy u człowieka?",
+      "a": "Od 3 do 5 mm",
+      "b": "Od 1 do 5 mm",
+      "c": "Od 3 do 8 mm",
+      "prawidłowa odpowiedź": "c"
+   },
+   {
+      "poziom" : "dwa",
+      "kategoria": "seriale polskie",
+      "pytanie": "Jaki kolor włosów ma Tatiana z serialu 'Fala zbrodni'?",
+      "a": "Rude",
+      "b": "Blond",
+      "prawidłowa odpowiedź": "a"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "instrumenty muzyczne",
+      "pytanie": "Z czego otrzymuje się kalafonię, którą skrzypkowie nacierają smyczki?",
+      "a": "Z żywicy",
+      "b": "Z koszenili",
+      "c": "Ze smoły",
+      "prawidłowa odpowiedź": "a"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "polityka",
+      "pytanie": "Który z kandydatów na prezydenta w 2010 roku powiedział: 'Wolę słuchać Beatlesó niż na przykład U Dwa'?",
+      "a": "Jarosław Kaczyński",
+      "b": "Bronisław Komorowski",
+      "c": "Grzegorz Napieralski",
+      "prawidłowa odpowiedź": "a"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "mowa potoczna",
+      "pytanie": "Jakim włosem ozdabiamy choinkę?",
+      "a": "Diabelskim",
+      "b": "Złotym",
+      "c": "Anielskim",
+      "prawidłowa odpowiedź": "c"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "w domowej spiżarni",
+      "pytanie": "Z jakim tańcem dzieli nazwę słoik, w którym można przechowywać konfitury?",
+      "a": "Z twistem",
+      "b": "Z kankanem",
+      "c": "Z rumbą",
+      "prawidłowa odpowiedź": "a"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "seriale animowane",
+      "pytanie": "Który z wymienionych charakterów nie jest Pokemonem?",
+      "a": "Jigglypuff",
+      "b": "Nazgul",
+      "c": "Squirtle",
+      "prawidłowa odpowiedź": "b"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "fizyka jądrowa",
+      "pytanie": "Siłę wybuchów jądrowych wyraża się w:",
+      "a": "Gramach nitrogliceryny",
+      "b": "Tonach trotylu",
+      "c": "Kilogramach dynamitu",
+      "prawidłowa odpowiedź": "b"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "minerały",
+      "pytanie": "Który z wymienionych minerałów nie jest odmianą kwarcu?",
+      "a": "Ametyst",
+      "b": "Morion",
+      "c": "Chryzoberyl",
+      "prawidłowa odpowiedź": "c"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "technologia",
+      "pytanie": "Służy do podróżowania w powietrzu, ale staruje w pionie, a nie w poziomie?",
+      "a": "Samolot",
+      "b": "Statek",
+      "c": "Helikopter",
+      "prawidłowa odpowiedź": "c"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "sadownictwo",
+      "pytanie": "Czego odmianą jest Ałycza?",
+      "a": "Jabłoni",
+      "b": "Gruszy",
+      "c": "Śliwy",
+      "prawidłowa odpowiedź": "c"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "literatura polska",
+      "pytanie": "Jakim rodzajem literatury jest 'Wesele' Stanisława Wyspiańskiego?",
+      "a": "Liryka",
+      "b": "Epika",
+      "c": "Dramat",
+      "prawidłowa odpowiedź": "c"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "skoki narciarskie",
+      "pytanie": "Zakopiańska skocznia narciarska Wielka Krokiew nosi imię:",
+      "a": "Stanisława Marusarza",
+      "b": "Wojciecha Fortuny",
+      "c": "Adama Małysza",
+      "prawidłowa odpowiedź": "a"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "bajki dineya",
+      "pytanie": "Bella z 'Pięknej i Bestii' na początku filmu dostała prezent. Co w nim było?",
+      "a": "Książka",
+      "b": "Naszyjnik",
+      "c": "Zwierciadło",
+      "prawidłowa odpowiedź": "a"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "kulinaria",
+      "pytanie": "Co jest głównym składnikiem seitana?",
+      "a": "Soja",
+      "b": "Gluten",
+      "c": "Tofu",
+      "prawidłowa odpowiedź": "b"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "budowle",
+      "pytanie": "Miasto z Hradczanami to:",
+      "a": "Wiedeń",
+      "b": "Budapeszt",
+      "c": "Praga",
+      "prawidłowa odpowiedź": "c"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "astronomia",
+      "pytanie": "Na czym polega teoria geocentryczna?",
+      "a": "Ziemia krąży wokół Słońca",
+      "b": "Ziemia krąży wokół Księżyca",
+      "c": "Cały Układ Słoneczny krąży wokół Ziemii",
+      "prawidłowa odpowiedź": "c"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "chemia",
+      "pytanie": "Oprócz Azotu i Tlenu, jaki gaz ma najwyższe stężenie w powietrzu atmosferycznym?",
+      "a": "Ksenon",
+      "b": "Argon",
+      "c": "Hel",
+      "prawidłowa odpowiedź": "b"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "gry komputerowe",
+      "pytanie": "Seria gier uncharted jest dostępna na konsolę:",
+      "a": "PS3 i PS4",
+      "b": "PS3 i X360",
+      "c": "Nintendo WiiU",
+      "prawidłowa odpowiedź": "a"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "państwa i miasta",
+      "pytanie": "Gdzie znajduje się słynna krzywa wieża?",
+      "a": "Parma",
+      "b": "Siena",
+      "c": "Piza",
+      "prawidłowa odpowiedź": "c"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "motoryzacja",
+      "pytanie": "W którym roku założono koncern Citroen?",
+      "a": 1919,
+      "b": 1909,
+      "c": 1899,
+      "prawidłowa odpowiedź": "a"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "sport",
+      "pytanie": "W jakim mieście miały odbyć się Letnie Igrzyska Olimpijskie w 2020 roku?",
+      "a": "Paryż",
+      "b": "Tokio",
+      "c": "Los Angeles",
+      "prawidłowa odpowiedź": "b"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "filmy zagraniczne",
+      "pytanie": "Międzynarodową gwiazdą kina niemego była:",
+      "a": "Edith Piaf",
+      "b": "Pola Negri",
+      "c": "Coco Chanel",
+      "prawidłowa odpowiedź": "b"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "zdrowie",
+      "pytanie": "Czym są kalorie?",
+      "a": "Ilośść energii tłuszczów nasyconych",
+      "b": "Ilość energii, jaką organizm może przyswoić poprzez trawienie",
+      "c": "Ilość energii tłuszczów nienasyconych",
+      "prawidłowa odpowiedź": "b"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "geografia",
+      "pytanie": "Obrońcy którego kraju mogli korzystać z Linii Maginota?",
+      "a": "Holandii",
+      "b": "Francji",
+      "c": "III Rzeszy",
+      "prawidłowa odpowiedź": "b"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "eurowizja",
+      "pytanie": "Ile osób może znajdować sie na scenie podczas występu na Eurowizji?",
+      "a": "6",
+      "b": "5",
+      "c": "1",
+      "prawidłowa odpowiedź": "a"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "komiksy",
+      "pytanie": "Jak nazywali się rodzice Petera Parkera?",
+      "a": "Jack i Jill",
+      "b": "John i Martha",
+      "c": "Richard i Mary",
+      "prawidłowa odpowiedź": "c"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "ogrodnictwo",
+      "pytanie": "Który kwiat nie jest rośliną cebulową?",
+      "a": "Mak",
+      "b": "Narcyz",
+      "c": "Przebiśnieg",
+      "prawidłowa odpowiedź": "a"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "filmy",
+      "pytanie": "Jak nazywa się gatunek filmu, którego akcja toczy się cały czas podczas podróży?",
+      "a": "Science fiction",
+      "b": "Film drogi",
+      "c": "Film noir",
+      "prawidłowa odpowiedź": "b"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "fizyka",
+      "pytanie": "Ile wynosi przyspieszenie ziemskie?",
+      "a": "około 3,14 m/s2",
+      "b": "około 6 m/s2",
+      "c": "około 10 m/s2",
+      "prawidłowa odpowiedź": "c"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "anatomia",
+      "pytanie": "Gdzie jest umiejscowiony nerw trójdzielny?",
+      "a": "W ramieniu",
+      "b": "W głowie",
+      "c": "W klatce pieriowej",
+      "prawidłowa odpowiedź": "b"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "święci i patroni",
+      "pytanie": "Kto jest patronem myśliwych?",
+      "a": "Święty Tomasz",
+      "b": "Święty Jakub",
+      "c": "Święty Hubert",
+      "prawidłowa odpowiedź": "c"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "aktorzy zagraniczni",
+      "pytanie": "Od jakiego filmu rozpoczeła się światowa sława Leonardo DiCaprio?",
+      "a": "Romeo i Julia",
+      "b": "Co gryzie Gilberta Grape'a",
+      "c": "Titanic",
+      "prawidłowa odpowiedź": "b"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "technologia",
+      "pytanie": "Czym jest PHP?",
+      "a": "Programem komputerowym",
+      "b": "Protokołem internetowym",
+      "c": "Językiem programowania",
+      "prawidłowa odpowiedź": "c"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "sztuka",
+      "pytanie": "Którego z tych obrazów nie namalował Claude Monet?",
+      "a": "Trzech śpiewaków",
+      "b": "Sroka",
+      "c": "Maki",
+      "prawidłowa odpowiedź": "a"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "polskie miasta",
+      "pytanie": "Która z tych nazw jest w rodzaju żeńskim?",
+      "a": "Supraśl",
+      "b": "Krasnystaw",
+      "c": "Gołdap",
+      "prawidłowa odpowiedź": "c"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "medycyna",
+      "pytanie": "Guz Wilmsa to guz:",
+      "a": "Mózgu",
+      "b": "Nerki",
+      "c": "Jelita grubego",
+      "prawidłowa odpowiedź": "b"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "gastronomia",
+      "pytanie": "Co można blanszować?",
+      "a": "Mięso wieprzowe",
+      "b": "Brokuł",
+      "c": "Mleko",
+      "prawidłowa odpowiedź": "b"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "trudne słowa",
+      "pytanie": "Co oznacza 'Liberum veto'?",
+      "a": "Pieniądz nie śmierdzi",
+      "b": "Mam prawo powiedzieć nie pozwalam",
+      "c": "Przybyłem, zobaczyłem, zwyciężyłem",
+      "prawidłowa odpowiedź": "b"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "filozofia",
+      "pytanie": "Która koncepcja filozoficzna zawierała twierdzenie o relatywności prawdy?",
+      "a": "Platonizm",
+      "b": "Sofizm",
+      "c": "Epikureizm",
+      "prawidłowa odpowiedź": "b"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "sport",
+      "pytanie": "Który kraj zdobył do tej pory najwięcej medali olimpijskich w narciarstwie alpejskim?",
+      "a": "Szwajcaria",
+      "b": "Austria",
+      "c": "Norwegia",
+      "prawidłowa odpowiedź": "b"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "seriale polskie",
+      "pytanie": "W jednym z odcinków tytułowi Kiepscy są przekonani, ze grają w filmie:",
+      "a": "Woddy'ego Allena",
+      "b": "Tarantino",
+      "c": "Spielberga",
+      "prawidłowa odpowiedź": "c"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "sztuka",
+      "pytanie": "Okres największej aktywności Petera Paula Rubensa przypadał na wiek:",
+      "a": "XVII",
+      "b": "XVIII",
+      "c": "XIX",
+      "prawidłowa odpowiedź": "c"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "nagrody",
+      "pytanie": "Który film przyniósł Martinowi Scorsese pierwszego Oscara za reżyserię?",
+      "a": "Infiltracja",
+      "b": "Aviator",
+      "c": "Chłopcy z ferajny",
+      "prawidłowa odpowiedź": "a"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "historia",
+      "pytanie": "Zgodnie z tureckimi przekazami, bitwa pod Warną zakończyła się dla króla Władysława Warneńczyka:",
+      "a": "Ukrzyżowaniem",
+      "b": "Nabiciem na pal",
+      "c": "Dekapitacją",
+      "prawidłowa odpowiedź": "c"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "polityka",
+      "pytanie": "Które z państw nie należy do układu z Schengen?",
+      "a": "Chorwacja",
+      "b": "Szwajcaria",
+      "c": "Estonia",
+      "prawidłowa odpowiedź": "a"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "województwa",
+      "pytanie": "Dąb Bartek, jeden z najstarszych dębów w Polsce, znajduje się w województwie:",
+      "a": "Lubelskim",
+      "b": "Świętokrzyskim",
+      "c": "Mazowieckim",
+      "prawidłowa odpowiedź": "b"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "lektury",
+      "pytanie": "Jak miał na imię tytułowy 'Szatan z siódmej klasy'?",
+      "a": "Adam",
+      "b": "Paweł",
+      "c": "Tomasz",
+      "prawidłowa odpowiedź": "a"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "parazytologia",
+      "pytanie": "Jaki pasożyt wywołuje fascjolozę?",
+      "a": "Motylica wątrobowa",
+      "b": "Przywra płucna",
+      "c": "Włosień kręty",
+      "prawidłowa odpowiedź": "a"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "mitologia grecka",
+      "pytanie": "Ile głów miał Cerber?",
+      "a": 1,
+      "b": 3,
+      "c": 5,
+      "prawidłowa odpowiedź": "b"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "fizyka",
+      "pytanie": "Przykładem dyfuzji może być:",
+      "a": "Choroba serca",
+      "b": "Pryskanie dezodorantem i poczucie jego zapachu",
+      "c": "Choroba, która polega na nierozpoznawaniu twarzy",
+      "prawidłowa odpowiedź": "b"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "kalendarz",
+      "pytanie": "Rokiem przestępnym nie jest",
+      "a": 1992,
+      "b": 2000,
+      "c": 2002,
+      "prawidłowa odpowiedź": "b"
+   },
+   {
+      "poziom" : "trzy",
+      "kategoria": "literatura",
+      "pytanie": "Czym było tytułowe 'Śniadanie mistrzów' w powieści K. Vonneguta?",
+      "a": "Posiłkiem",
+      "b": "Spotkaniem pisarzy",
+      "c": "Drinkiem",
+      "prawidłowa odpowiedź": "c"
+   }
+]
