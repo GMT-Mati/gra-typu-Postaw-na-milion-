@@ -1,4 +1,4 @@
-# gra-typu-Postaw-na-milion-
+# gra typu "Postaw na milion"
 Gra podobna do "Postaw na Milion". Baza pytań  w trakcie rozbudowy. Na razie tylko backend, frontendowa wersja pygame w przygotowaniu.
 
 # Przygotowanie:
@@ -30,7 +30,6 @@ W poczatkowej fazie gra miała być prostą gierką - w sumie nadal taka pozosta
 22. stworzenie osobnej funkcji sprawdzajacej poprawną odpowiedź
 23. stworzenie funkcji przebiegu gry
 
-Kluczowym elementem na następny etap gry jest dodanie funkcji niepowtarzania się pytań
-praca nad frontendową wersją gry
+Kluczowym elementem na następny etap gry jest dodanie funkcji niepowtarzania się pytań i praca nad frontendową wersją gry
 
 Wszystkie uwagi i podpowiedzi jak ulepszyć kod mile widziane :)
