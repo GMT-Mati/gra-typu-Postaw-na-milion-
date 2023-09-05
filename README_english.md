@@ -1,3 +1,77 @@
+# Postaw na Milion - Game Project
+
+![Game Screenshot](screenshot.png)
+
+## Description
+
+Postaw na Milion is a trivia game inspired by popular TV quiz shows. Test your knowledge and try to win one million!
+
+## Features
+
+- Multiple levels of difficulty
+- Randomly selected questions
+- Lifelines for assistance
+- Keep track of your winnings
+
+## Technologies Used
+
+- Python
+- JSON for question data storage
+
+## Installation
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/GMT-Mati/gra-typu-Postaw-na-milion-.git
+   ```
+
+2. Install the necessary dependencies:
+
+   ```bash
+   # Navigate to the project directory
+   cd gra-typu-Postaw-na-milion-
+   
+   # Install dependencies (if needed)
+   pip install -r requirements.txt
+   ```
+
+3. Run the game:
+
+   ```bash
+   python main.py
+   ```
+
+## How to Play
+
+- Launch the game by running `main.py` in your terminal.
+- Answer trivia questions correctly to progress through the game and earn money.
+- Use lifelines wisely for assistance when needed.
+- Aim to reach the million-dollar prize!
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, please fork the repository and create a pull request with your changes.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgments
+
+- [Inspiration source, if any]
+- [Any additional acknowledgments]
+
+## Contact
+
+[Your Name] - [Your Email] - [Link to your portfolio or website, if applicable]
+
+```
+
+Please replace `[Your Name]`, `[Your Email]`, and other placeholders with your actual information and customize the README as needed to provide more details about your project. You can also include additional sections or information to make it more comprehensive.
+
+Don't forget to add a screenshot (`screenshot.png`) or any other relevant media to showcase your game.
+
 # game like "Million Dollar Money Drop"
 A game similar to "Million Dollar Money Drop". Database of questions under development. For now only backend, frontend version of pygame in preparation.
 
